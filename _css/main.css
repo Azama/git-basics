@@ -8,7 +8,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 html, body  {
-	margin: 0;
+  margin: 0;
 }
 /* Correct `block` display not defined in IE 8/9.*/
 article,aside,details,figcaption,figure,footer,header,main,nav,section,summary {
@@ -69,16 +69,16 @@ svg:not(:root) {
 }
 
 pre {
-	background: black;
-	padding: 1em 2em;
-	color: #F2EFB5;
-	font-size: 1.4em;
-	white-space: pre-wrap; 
- 	white-space: -moz-pre-wrap;  
-	white-space: -pre-wrap;      
-	white-space: -o-pre-wrap;  
-	word-wrap: break-word;
-	overflow: auto;
+  background: black;
+  padding: 1em 2em;
+  color: #F2EFB5;
+  font-size: 1.4em;
+  white-space: pre-wrap; 
+  white-space: -moz-pre-wrap;  
+  white-space: -pre-wrap;      
+  white-space: -o-pre-wrap;  
+  word-wrap: break-word;
+  overflow: auto;
 }
 
 /* Forms
@@ -151,11 +151,11 @@ textarea {
     zoom:1;
 }
 .cr {
-	clear: right;
+  clear: right;
 }
 .cl {
-	clear: left;
+  clear: left;
 }
 .cb {
-	clear: both;
+  clear: both;
 }
